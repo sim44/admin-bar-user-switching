@@ -3,7 +3,8 @@
  * Plugin Name: User Switching in Admin Bar
  * Plugin URI: https://www.bebic.at
  * Description: Originally developed by <a href="https://markwilkinson.me/">Mark Wilkinson</a>, this plugin builds upon the <a href="https://wordpress.org/plugins/user-switching/">User Switching</a> plugin by John Blackbourn and adds a dropdown list of users in the WordPress admin bar with a link to switch to that user, then providing a switch back link in the admin bar as well.
- * Version: 1.2
+ * Original Version: 1.2
+ * Version: 100.0.0
  * Author: Dražen Bebić
  * Author URI: https://www.bebic.at
  * Text Domain: abus
